@@ -61,8 +61,8 @@
       <file leaf-file-name="GetAdapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/namely/api/GetAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="266">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -134,7 +134,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/namely/api/RestAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/namely/api/DeleteAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/namely/api/GetAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/namely/api/PostAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/namely/api/PutAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/namely/routings/config.java" />
@@ -164,6 +163,7 @@
         <option value="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/temp-testng-customsuite.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/namely/hcm/api/Profiles.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/namely/routings/hcm/Profilesroutings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/namely/api/GetAdapter.java" />
       </list>
     </option>
   </component>
@@ -1008,7 +1008,7 @@
       <workItem from="1479489278264" duration="7040000" />
       <workItem from="1480967796598" duration="1078000" />
       <workItem from="1481642866532" duration="1131000" />
-      <workItem from="1481945968001" duration="396000" />
+      <workItem from="1481945968001" duration="526000" />
     </task>
     <servers />
   </component>
@@ -1045,7 +1045,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52901000" />
+    <option name="totallyTimeSpent" value="53031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="552" y="23" width="1280" height="773" extended-state="0" />
@@ -1436,8 +1436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/namely/api/GetAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="266">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding />
         </state>
       </provider>
