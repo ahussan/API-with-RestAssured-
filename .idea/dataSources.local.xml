@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="AUTOMATION" uuid="8893e20d-901b-4bfa-8587-31f338a9c00f">
+      <secret-storage>master_key</secret-storage>
+      <user-name>r2d2user</user-name>
+    </data-source>
+  </component>
+</project>
